@@ -5,7 +5,7 @@ import { InputContainer } from "./styles";
 function Input() {
   return (
     <InputContainer>
-      <Input />
+      <input />
     </InputContainer>
   );
 }
